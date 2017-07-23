@@ -1,0 +1,57 @@
+研发流程文档
+怎么写测试用例（手工+自动化）
+了解广告的业务
+了解TEA平台各种功能和实现
+
+
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=480047136   广告位及规则
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=466357298   系统测试指南
+
+e.yunos.com 广告主投放平台   yunos_ad_settle
+
+ 广告一期质量保证规划 ：http://docs.alibaba-inc.com/pages/viewpage.action?pageId=451546903
+
+
+http://docs.alibaba-inc.com/display/osad/Home
+mail.alibaba-inc.com/alimail/
+
+
+ODPS权限：登录http://meta.alibaba-inc.com点击
+         “管理后台”-“数据管理平台”- 数据资产明细-“我拥有的表”、“我拥有的权限”可查看当前拥有的表和权限。
+
+
+IDB权限：登录https://idb.alibaba-inc.com点击“系统管理”-“常用配置”- “我开通的数据源”、“我拥有的数据源”
+         即可查看当前拥有的IDB权限。
+
+ACL权限：员工登录http://acl.alibaba-inc.com，点击“权限管理”-“我负责的权限”即可查看。
+
+Build Verification Test：BVT 如无大的问题，就可以进行相应的功能测试。BVT优点是时间短，验证了软件的基本功能。缺点是该种测试的覆盖率很低。因为运行时间短，不可能把所有的情况都测试到。BVT测试也被称为“冒烟测试”。
+
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=443093409  广告新架构服务端接口规范
+http://tea.alibaba.net/
+https://aone.alibaba-inc.com/
+https://aone.alibaba-inc.com/project/493108/k3case/cases/case_list
+
+http://gitlab.alibaba-inc.com/zmx123373/autocase 本周优先级不高
+http://gitlab.alibaba-inc.com/zmx123373/thenightof TEA平台的代码，本周优先级不高
+ 
+idb.alibaba-inc.com  数据库   yunos_ad_dsp_bp
+ 
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=444368432  定向数据流
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=477465119  uts信息格式
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=442436135  db设计
+
+http://gitlab.alibaba-inc.com/groups/ali_yunos_ad 开发代码
+http://gitlab.alibaba-inc.com/zmx123373/autocase 自动化测试用例框架
+
+
+
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=444368432  定向数据流
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=477465119   UTS信息格式
+http://gitlab.alibaba-inc.com/zmx123373/autocase      自动化测试用例框架
+
+
+开屏广告测试文档
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=566067653  
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=564333860
+http://docs.alibaba-inc.com/pages/viewpage.action?pageId=566068920
